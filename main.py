@@ -1,9 +1,7 @@
 from models import *
 import sqlite3
 
-# conn = sqlite3.connect("funding.db")
-# conn.execute("ALTER TABLE PROJECT RENAME COLUMN type TO category;")
-# conn.close()
+#Removed comments
 
 
 print("Crowdfunding Application")
